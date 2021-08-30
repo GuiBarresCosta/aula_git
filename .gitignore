@@ -1,5 +1,6 @@
 # Ignorar por nome do arquivo
 changelog.txt
+changelo.txt
 
 # Ignorar pela extensão
 *.log
